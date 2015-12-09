@@ -1,6 +1,6 @@
 {
   "name": "chatup-slack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Chatup plugin that send a message to a slack channel when a user send a message with a specific string",
   "main": "index.js",
   "scripts": {
