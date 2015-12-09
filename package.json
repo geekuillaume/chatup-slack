@@ -1,0 +1,19 @@
+{
+  "name": "chatup-slack",
+  "version": "1.0.0",
+  "description": "A Chatup plugin that send a message to a slack channel when a user send a message with a specific string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geekuillaume/chatup-slack.git"
+  },
+  "author": "Guillaume Besson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekuillaume/chatup-slack/issues"
+  },
+  "homepage": "https://github.com/geekuillaume/chatup-slack#readme"
+}
