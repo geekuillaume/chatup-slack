@@ -6,6 +6,8 @@ You need to configure a new webhook on Slack before using this plugin.
 
 ## Example
 
+Start by installing `chatup-slack` npm module with `npm install --save chatup-slack`, then in your ChatUp worker file, do something like this:
+
 ```js
 var conf = {}; // Your configuration
 var worker = new ChatUp.ChatWorker(conf);
