@@ -27,7 +27,7 @@ module.exports = function chatupSlack(options) {
           }
           debug('Sended message to slack');
         });
-        return next('message_redirected');
+        return next({status: 'ok', message: 'messageRedirected'});
       }
     }
     return next();
